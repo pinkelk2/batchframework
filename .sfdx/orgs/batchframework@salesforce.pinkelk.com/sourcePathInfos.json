@@ -1,0 +1,991 @@
+[
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1518366456000,
+            "changeTime": 1518362517426,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1518366456000,
+            "changeTime": 1518362517428,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1518366456000,
+            "changeTime": 1518362517429,
+            "contentHash": "29447785d6fffb1bcf789425fe3f0a54e897afdc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1518362349000,
+            "changeTime": 1518362349558,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1518366456000,
+            "changeTime": 1518362517433,
+            "contentHash": "c78a9cdfbb4cbfcd731899bc1e3aa5cfb2596832",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/BatchTestFramework.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/BatchTestFramework.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1720,
+            "modifiedTime": 1518366454470,
+            "changeTime": 1518366454470,
+            "isWorkspace": false,
+            "contentHash": "cd705ea5c297dd0b4043de1a49e18349de4ba25d"
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/BatchTestFramework.cls-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/BatchTestFramework.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518362501062,
+            "changeTime": 1518362502011,
+            "contentHash": "1ec90a3a4e6641a3f8f58190307afc9516c844ee",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/JobSupport.cls",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/JobSupport.cls",
+            "isDirectory": false,
+            "size": 8346,
+            "modifiedTime": 1518362501067,
+            "changeTime": 1518362502022,
+            "contentHash": "42eec0fdf71d7f19145d4ef51148aa06ce5b12d4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/JobSupport.cls-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/JobSupport.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518362501066,
+            "changeTime": 1518362502019,
+            "contentHash": "1ec90a3a4e6641a3f8f58190307afc9516c844ee",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/JobSupport_Test.cls",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/JobSupport_Test.cls",
+            "isDirectory": false,
+            "size": 826,
+            "modifiedTime": 1518362501070,
+            "changeTime": 1518362502028,
+            "contentHash": "1903ccbe9b8635ebca7dbae09270767fc3233c3e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/JobSupport_Test.cls-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/classes/JobSupport_Test.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518362501069,
+            "changeTime": 1518362502025,
+            "contentHash": "1ec90a3a4e6641a3f8f58190307afc9516c844ee",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517431,
+            "contentHash": "f3fe7204426e8e8a199e3b4b5532de9dd12d9752",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts/Batch_Log__c-Batch Log Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts/Batch_Log__c-Batch Log Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2065,
+            "modifiedTime": 1518362501073,
+            "changeTime": 1518362502035,
+            "contentHash": "7c5db5789067a0d4b419c75f25db3c41fd0dc29d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts/Batch__c-Batch Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts/Batch__c-Batch Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2702,
+            "modifiedTime": 1518362501075,
+            "changeTime": 1518362502038,
+            "contentHash": "b928cc3d119876c678987f999313aaa24ffe6986",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts/Job_Log__c-Job Log Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts/Job_Log__c-Job Log Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2063,
+            "modifiedTime": 1518362501077,
+            "changeTime": 1518362502040,
+            "contentHash": "aa3547d0d8d079cd60734961903d9cf7fcce50f9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts/Job_Type__c-Job Type Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts/Job_Type__c-Job Type Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3386,
+            "modifiedTime": 1518362501080,
+            "changeTime": 1518362502042,
+            "contentHash": "ea670f17d36655ae9f5ad7e5a83b24ac91424a27",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts/Job__c-Job Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/layouts/Job__c-Job Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3589,
+            "modifiedTime": 1518362501082,
+            "changeTime": 1518362502044,
+            "contentHash": "3ded38ba828913575a7d88da08e60040283385dc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517435,
+            "contentHash": "2aa0b5fcd59d1ed074ddc7798748a0cf632cb25f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch_Log__c",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch_Log__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517436,
+            "contentHash": "47601cd5e0e6fa8b58c81964734ac3a24cd2267a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch_Log__c/Batch_Log__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch_Log__c/Batch_Log__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2147,
+            "modifiedTime": 1518362501090,
+            "changeTime": 1518362502050,
+            "contentHash": "fe9cd729f945be61e214b361a3eac88343d25335",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch_Log__c/fields",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch_Log__c/fields",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517457,
+            "contentHash": "325ff742defbf00bb9dbdf78829db9487d476f46",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch_Log__c/fields/Batch__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch_Log__c/fields/Batch__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 596,
+            "modifiedTime": 1518362501090,
+            "changeTime": 1518362502055,
+            "contentHash": "bb983362570af8e5891f08d2ae77e7cac6657ef1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch_Log__c/fields/Message__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch_Log__c/fields/Message__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1518362501090,
+            "changeTime": 1518362502060,
+            "contentHash": "b11f84fb7995ff410c30c70c404e74b3156b6fbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517440,
+            "contentHash": "65be830276460846a323a5a03b1e66f4c66ce019",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/Batch__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/Batch__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2132,
+            "modifiedTime": 1518362501101,
+            "changeTime": 1518362502065,
+            "contentHash": "9e59056691a7e896fb6f116999ca407210642475",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517459,
+            "contentHash": "3bfdf02b7c2e32ed8186ff97de1ed4e2ae1ca714",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Finished__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Finished__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1518362501102,
+            "changeTime": 1518362502069,
+            "contentHash": "fcfb52187aad71f3612f23316c09ffbb26cba385",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Job__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Job__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 584,
+            "modifiedTime": 1518362501102,
+            "changeTime": 1518362502073,
+            "contentHash": "3bec03cb9fb5a1a5684d9f4c7913e8957ba29d1d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Log__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Log__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1518362501102,
+            "changeTime": 1518362502077,
+            "contentHash": "c327b1ae6245029b67c24976fa2e7d5cd440d507",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Notifiable_Errors__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Notifiable_Errors__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1518362501102,
+            "changeTime": 1518362502081,
+            "contentHash": "833ad77565e83867d2a6591a2ffca9ee5926e5ce",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Started__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Started__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 312,
+            "modifiedTime": 1518362501103,
+            "changeTime": 1518362502084,
+            "contentHash": "adfa70e630b2899be2d0ee93c7e89adc258371af",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Batch__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1261,
+            "modifiedTime": 1518362501103,
+            "changeTime": 1518362502089,
+            "contentHash": "5f4dfafa2721562a909211a12e50dc794fff7d65",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Log__c",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Log__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517443,
+            "contentHash": "2be1ac399eac5233995df4013878f4cb87983b2a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Log__c/Job_Log__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Log__c/Job_Log__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2141,
+            "modifiedTime": 1518362501110,
+            "changeTime": 1518362502093,
+            "contentHash": "c1454f2c5d9599beabf1beced5cd153281b3e993",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Log__c/fields",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Log__c/fields",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517463,
+            "contentHash": "8757ef244a36892587271ac99851b512d4b4a5ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Log__c/fields/Job__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Log__c/fields/Job__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 586,
+            "modifiedTime": 1518362501110,
+            "changeTime": 1518362502165,
+            "contentHash": "34d9b54a362b1021bdad321d1b3e9e116689fb55",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Log__c/fields/Message__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Log__c/fields/Message__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1518362501110,
+            "changeTime": 1518362502169,
+            "contentHash": "b11f84fb7995ff410c30c70c404e74b3156b6fbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517441,
+            "contentHash": "b5fc894883c780fb9b30b6c0c7c4462f31950dd8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/Job_Type__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/Job_Type__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2077,
+            "modifiedTime": 1518362501117,
+            "changeTime": 1518362502173,
+            "contentHash": "09999688b9bee60f8f10004f44a6b5495ed5b09f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517464,
+            "contentHash": "d5ac0f8e936c05194b050555db6579e7dcfbb28a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Batch_Size__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Batch_Size__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1518362501118,
+            "changeTime": 1518362502178,
+            "contentHash": "652afde6501bf8d6f05447291a3c886b8db897c2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Days_to_Keep_Jobs__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Days_to_Keep_Jobs__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 444,
+            "modifiedTime": 1518362501118,
+            "changeTime": 1518362502181,
+            "contentHash": "d697789fd6e9817895a3a65f76c874c1949fd4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Disabled__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Disabled__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1518362501119,
+            "changeTime": 1518362502184,
+            "contentHash": "862416fbb0c45a46dba303f031502f227f9b2e8f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Last_Job_Run_OK__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Last_Job_Run_OK__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 622,
+            "modifiedTime": 1518362501119,
+            "changeTime": 1518362502188,
+            "contentHash": "14ef8040691e0a0c0a4e9f8f5f4f35ab13fb0eb5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Must_Run_Daily__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Must_Run_Daily__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 702,
+            "modifiedTime": 1518362501119,
+            "changeTime": 1518362502191,
+            "contentHash": "565443e59f7d572a1c30ae33af827cd28b5af13d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Parameters__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/fields/Parameters__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 353,
+            "modifiedTime": 1518362501120,
+            "changeTime": 1518362502194,
+            "contentHash": "e8832ff5a59e3a0df533733c6808650c76d0455a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/listViews",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517456,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job_Type__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1518362501120,
+            "changeTime": 1518362502197,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517438,
+            "contentHash": "9be7d0c312817dd6499ab96b3aeedd128dfaa0c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/Job__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/Job__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2125,
+            "modifiedTime": 1518362501141,
+            "changeTime": 1518362502203,
+            "contentHash": "d30c79622d090839161f535008afa9daec21317f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields",
+            "isDirectory": true,
+            "size": 416,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517461,
+            "contentHash": "26632096d2a495b2531de874c351d6cd2a884e0d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Finished__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Finished__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1518362501141,
+            "changeTime": 1518362502208,
+            "contentHash": "fcfb52187aad71f3612f23316c09ffbb26cba385",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Job_Id__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Job_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1518362501141,
+            "changeTime": 1518362502210,
+            "contentHash": "94d349bebf34a53b3bbfca1fe20f462f8bc137a8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Job_Type__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Job_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 593,
+            "modifiedTime": 1518362501142,
+            "changeTime": 1518362502213,
+            "contentHash": "ef493815d546b04ff09be04e0d1272940e0920ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Log__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Log__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1518362501142,
+            "changeTime": 1518362502215,
+            "contentHash": "c327b1ae6245029b67c24976fa2e7d5cd440d507",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Notifiable_Errors__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Notifiable_Errors__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 473,
+            "modifiedTime": 1518362501142,
+            "changeTime": 1518362502219,
+            "contentHash": "e428a10a0344a1d76f7a094a494d87129d4f6244",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Parameters__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Parameters__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 353,
+            "modifiedTime": 1518362501143,
+            "changeTime": 1518362502221,
+            "contentHash": "e8832ff5a59e3a0df533733c6808650c76d0455a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Parent_Job__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Parent_Job__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 507,
+            "modifiedTime": 1518362501143,
+            "changeTime": 1518362502224,
+            "contentHash": "bfad4c913408987dc308c3ff7973c355a08853ba",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Scheduled_Hour__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Scheduled_Hour__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 401,
+            "modifiedTime": 1518362501143,
+            "changeTime": 1518362502226,
+            "contentHash": "d759c1153c3698d46210505f6905c1609c1073b6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Scheduled_Minute__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Scheduled_Minute__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 405,
+            "modifiedTime": 1518362501144,
+            "changeTime": 1518362502229,
+            "contentHash": "57b167fc3b09daa1e2b0957cade1bddbed830d5a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Started__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Started__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 312,
+            "modifiedTime": 1518362501144,
+            "changeTime": 1518362502233,
+            "contentHash": "adfa70e630b2899be2d0ee93c7e89adc258371af",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1261,
+            "modifiedTime": 1518362501144,
+            "changeTime": 1518362502235,
+            "contentHash": "5f4dfafa2721562a909211a12e50dc794fff7d65",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/listViews",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/listViews",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1518362517000,
+            "changeTime": 1518362517466,
+            "contentHash": "a483c891955d20f7695ec3930d9e91ce6126d342",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1518362501144,
+            "changeTime": 1518362502239,
+            "contentHash": "d206b1c09520f86b7b9d99b46007bbc2beadb19a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/listViews/Repeat_Scheduled.listView-meta.xml",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk/force-app/main/default/objects/Job__c/listViews/Repeat_Scheduled.listView-meta.xml",
+            "isDirectory": false,
+            "size": 433,
+            "modifiedTime": 1518362501145,
+            "changeTime": 1518362502242,
+            "contentHash": "5c51a27749c333eea046d99ed741e4e0d692cc05",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alandavies/Documents/dev/pinkelk",
+        {
+            "sourcePath": "/Users/alandavies/Documents/dev/pinkelk",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1518366456000,
+            "changeTime": 1518365920118,
+            "contentHash": "dbab97d81c4f84bf6b195e1ae601aa5ccc7a14a7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
