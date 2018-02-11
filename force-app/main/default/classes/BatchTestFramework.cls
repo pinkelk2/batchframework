@@ -23,7 +23,7 @@ global with sharing class BatchTestFramework
 
 //******************************************************************
 
-	global database.querylocator start (Database.BatchableContext bc)  //  comment added 
+	global database.querylocator start (Database.BatchableContext bc)  //  comment removed 
 	{		
         this.job = JobSupport.getJobForId (bc.getJobId());
 		JobSupport.addLineToJobLog (this.job, 'Started', true);
